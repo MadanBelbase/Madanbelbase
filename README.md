@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madan Belbase</h1>
 <h3 align="center">👨‍💻 I am an engineering student exploring code, AI, and the cloud ☁️ | Always learning, building, and experimenting | Let’s create something cool together!</h3>
 
-- 🔭 I’m currently working on **dhakdeals.com**
-
 - 🌱 I’m currently learning **REACT,django.**
 
 <h3 align="left">Connect with me:</h3>
