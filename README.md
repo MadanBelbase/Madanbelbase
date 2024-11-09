@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Madan Belbase</h1>
 <h3 align="center">👨‍💻 I am an engineering student exploring code, AI, and the cloud ☁️ | Always learning, building, and experimenting | Let’s create something cool together!</h3>
 
-- 🌱 I’m currently learning **REACT,django.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madanbelbase&label=Profile%20views&color=0e75b6&style=flat" alt="madanbelbase" /> </p>
+
+- 🔭 I’m currently working on **dhakdeals.com**
+
+- 🌱 I’m currently learning **REACT,Nodejs.**
+
+- 📝 I regularly write articles on [https://medium.com/@madanbelbase927](https://medium.com/@madanbelbase927)
+
+- 📫 How to reach me **madanbelbase927@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,19 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madanbelbase&show_icons=true&locale=en" alt="madanbelbase" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madanbelbase&" alt="madanbelbase" /></p>
-
-
-<!--
-**MadanBelbase/Madanbelbase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
