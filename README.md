@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madanbelbase927@gmail.com**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/madan-belbase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madan-belbase" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61554181993528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61554181993528" height="30" width="40" /></a>
 <a href="https://medium.com/@madanbelbase927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@madanbelbase927" height="30" width="40" /></a>
+<a href="/https://medium.com/@madanbelbase927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@madanbelbase927" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
