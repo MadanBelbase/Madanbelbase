@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madan Belbase</h1>
-<h3 align="center">👨‍💻 Engineering Student | Aspiring AI & Cloud Developer | Lifelong Learner | Let's Build the Future Together 🚀</h3>
+<h3 align="center">👨‍💻 Engineering Student | Aspiring AI & Cloud Learne | Lifelong Learner | Let's Build the Future Together 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madanbelbase&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
