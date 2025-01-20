@@ -5,8 +5,9 @@
 </p>
 ## About Me
 - 🌱 **Currently learning**: React, Node.js, AI, Cloud Computing
+
 - 📝 I regularly write articles on [Medium](https://medium.com/@madanbelbase927)
-- 📚 **Currently working on**: Building a job portal for Nepal, exploring machine learning, and contributing to open-source projects.
+
 - 💬 **Let's connect!** You can reach me at: **madanbelbase927@gmail.com**
 ## 🛠️ Languages and Tools
 <p align="left"> 
