@@ -12,7 +12,8 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@madanbelbase927)
 
 - 💬 **Let's connect!** You can reach me at: **madanbelbase927@gmail.com**
-- 
+
+  
 ## 🛠️ Languages and Tools
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
