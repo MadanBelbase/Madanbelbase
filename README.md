@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madan Belbase</h1>
 
-<h3 align="center">👨‍💻 Engineering Student | Aspiring Web Developer & Cloud Enthusiast | Lifelong Learner | Let's Build the Future Together 🚀</h3>
+<h3 align="center">👨‍💻 Engineering Student | Backend Developer & Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madanbelbase&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -35,21 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madanbelbase&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madanbelbase&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madanbelbase&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 🌍 Let's Connect
 
