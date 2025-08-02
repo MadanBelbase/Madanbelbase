@@ -6,10 +6,8 @@
 • Email: madanbelbase927@gmail.com  
 • GitHub: https://github.com/madanbelbase  
 • LinkedIn: https://linkedin.com/in/madan-belbase  
-• Portfolio: madanbelbase.com.np
+• Portfolio:  https://madanbelbase.com.np
 
-
-$ cat skills.txt
 
 
 👨‍💻 Technical Skills
