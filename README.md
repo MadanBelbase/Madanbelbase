@@ -1,6 +1,7 @@
 
 👤 Madan Belbase
 ==========================
+```
 • Role: Full-Stack Web Developer & Computer Engineering Student  
 • Location: Kathmandu, Nepal  
 • Email: madanbelbase927@gmail.com  
@@ -25,13 +26,12 @@
   - Experience with authentication (JWT, OAuth), middleware, and API versioning
 
 • Databases:
-  - PostgreSQL (relational schema design, indexing)
+  - MySQL (relational schema design, indexing)
   - MongoDB (NoSQL, Mongoose ODM)
-  - Redis (in-memory caching and pub/sub patterns)
 
 • Cloud & Infrastructure:
   - AWS (EC2, S3, Lambda, RDS) for cloud hosting and serverless architecture
-  - Experience setting up scalable infrastructure with IAM and VPCs
+
 
 • DevOps & Tools:
   - Docker (containerization of apps and environments)
@@ -69,6 +69,8 @@ WHERE focus IN ('scalability', 'performance', 'clean_architecture');
 }
 
 }
+
+
 
 
 
