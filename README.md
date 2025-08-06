@@ -81,6 +81,14 @@ WHERE focus IN ('scalability', 'performance', 'clean_architecture');
 
 }
 
+```
+
+  <br><br><br>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madanbelbase&theme=tokyo-night&hide_border=true" width="100%"/>
+</a>
+</p>
+
 
 
 
