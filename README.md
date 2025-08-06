@@ -10,10 +10,12 @@
 • Portfolio:  https://madanbelbase.com.np
 
 
+```
 
 👨‍💻 Technical Skills
 ==========================
 
+```
 • Languages:
   - JavaScript (ES6+), Python (Flask, scripting), Java (OOP, backend foundations)
   - Familiar with TypeScript for scalable JS apps
@@ -42,10 +44,11 @@
   - RESTful API design and integration
   - WebSockets for real-time apps (chat, live data updates)
 
+```
 
 🚧 Current Projects
 ==========================
-
+```
 SELECT * FROM ongoing_work 
 WHERE focus IN ('scalability', 'performance', 'clean_architecture');
 
@@ -54,10 +57,10 @@ WHERE focus IN ('scalability', 'performance', 'clean_architecture');
   - Building a full-stack blog engine using Astro + Markdown
   - Creating real-time collaborative features with WebSocket & Redis
 
-
+```
 📬 Contact & Availability
 ==========================
-
+```
 {
   "contact": {
     "email": "madanbelbase927@gmail.com",
