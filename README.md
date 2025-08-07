@@ -10,7 +10,6 @@ Hi there, I'm Madan Belbase 👋
 • LinkedIn: https://linkedin.com/in/madan-belbase  
 • Portfolio:  https://madanbelbase.com.np
 
-
 ```
 
 👨‍💻 Technical Skills
