@@ -1,5 +1,4 @@
-
-Hi there, I'm Madan Belbase 👋
+Hi there, I'm Madan Belbase
 ==========================
 
 ```
