@@ -8,6 +8,8 @@ Hi there, I'm Madan Belbase
 • GitHub: https://github.com/madanbelbase  
 • LinkedIn: https://linkedin.com/in/madan-belbase  
 • Portfolio:  https://madanbelbase.com.np
+• Medium: https://medium.com/@madanbelbase927
+
 
 ```
 
