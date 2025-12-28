@@ -46,33 +46,27 @@ Hi there,  I'm Madan Belbase
   - WebSockets for real-time apps (chat, live data updates)
 
 ```
-<div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=madanbelbase&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" 
-    alt="GitHub Stats" 
+  <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=madanbelbase&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast"
     height="150"
+    alt="GitHub Stats"
   />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=madanbelbase&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" 
-    alt="Top Languages" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=madanbelbase&layout=compact&langs_count=5&theme=highcontrast"
     height="150"
-    style="margin-left: 10px;"
+    alt="Top Languages"
   />
+</p>
 
-  <!-- Streak Stats -->
-  <p>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=madanbelbase&theme=highcontrast" 
-      alt="GitHub Streak" 
-      style="margin-top: 15px;"
-    />
-  </p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=madanbelbase&theme=highcontrast"
+    alt="GitHub Streak"
+  />
+</p>
 
-</div>
 
 
 
