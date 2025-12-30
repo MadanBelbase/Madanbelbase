@@ -47,18 +47,6 @@ Hi there,  I'm Madan Belbase
 
 ```
 
-  <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=madanbelbase&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=madanbelbase&layout=compact&langs_count=5&theme=highcontrast"
-    height="150"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <img
