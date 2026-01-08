@@ -50,9 +50,11 @@ Hi there,  I'm Madan Belbase
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=madanbelbase&theme=highcontrast"
-    alt="GitHub Streak"
-  />
+          src="https://ghchart.rshah.org/MadanBelbase"
+          alt="Madan Belbase GitHub Contribution Graph"
+          loading="lazy"
+          class="mx-auto"
+        />
 </p>
 
 
