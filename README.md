@@ -53,7 +53,7 @@ Hi there,  I'm Madan Belbase
           src="https://ghchart.rshah.org/MadanBelbase"
           alt="Madan Belbase GitHub Contribution Graph"
           loading="lazy"
-          class="mx-auto"
+      
         />
 </p>
 
