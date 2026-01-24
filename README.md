@@ -50,10 +50,11 @@ Hi there,  I'm Madan Belbase
 ```
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madanbelbase&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madanbelbase&show_icons=true&locale=en&layout=compact" alt="madanbelbase" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madanbelbase&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madanbelbase&show_icons=true&locale=en" alt="madanbelbase" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madanbelbase&" alt="madanbelbase" /></p>
 
 
 
