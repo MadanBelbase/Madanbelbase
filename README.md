@@ -31,14 +31,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadanBelbase&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
 ## Latest Blog Posts
 
 - Blog on [madanbelbase.com.np](https://madanbelbase.com.np/)
