@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Madan Belbase</h1>
   <h3>Full-Stack Developer | CS Student | ML Explorer</h3>
-  
   <p>
     <a href="mailto:madanbelbase927@gmail.com">Email</a> •
     <a href="https://linkedin.com/in/madan-belbase">LinkedIn</a> •
@@ -9,7 +8,6 @@
     <a href="https://madanbelbase.com.np">Portfolio</a>
   </p>
 </div>
-
 ---
 ## 👨‍💻 About Me
 
