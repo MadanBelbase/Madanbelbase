@@ -1,0 +1,40 @@
+<svg width="680" height="160" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Madan Belbase</title>
+<rect x="0" y="0" width="680" height="160" rx="12" fill="#0b0b14"/>
+<style>
+.m{font:400 12px "Courier New",monospace;fill:#00ff9c;opacity:.22}
+.r,.c,.w{font:700 58px "Courier New",monospace;text-anchor:middle}
+.r{fill:#ff2d55;opacity:.8;animation:j1 1.3s steps(2) infinite}
+.c{fill:#00e5ff;opacity:.8;animation:j2 1.7s steps(2) infinite}
+.w{fill:#ffffff}
+.f{animation:flip 3.2s ease-in-out infinite}
+.all{animation:flick 4s steps(1) infinite}
+@keyframes j1{0%,100%{transform:translate(0,0)}20%{transform:translate(-3px,2px)}45%{transform:translate(2px,-2px)}70%{transform:translate(-2px,-1px)}85%{transform:translate(3px,1px)}}
+@keyframes j2{0%,100%{transform:translate(0,0)}25%{transform:translate(3px,-2px)}50%{transform:translate(-2px,2px)}75%{transform:translate(2px,1px)}}
+@keyframes flip{0%,68%,100%{transform:scaleX(1)}74%{transform:scaleX(-1)}80%{transform:scaleX(1)}}
+@keyframes flick{0%,100%{opacity:1}91%{opacity:.25}92%{opacity:1}94%{opacity:.4}95%{opacity:1}}
+</style>
+<g>
+<text class="m" x="50" y="0">1<tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">0</tspan><animateTransform attributeName="transform" type="translate" values="0,-70;0,230" dur="2.6s" repeatCount="indefinite"/></text>
+<text class="m" x="120" y="0">0<tspan x="120" dy="14">1</tspan><tspan x="120" dy="14">0</tspan><tspan x="120" dy="14">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-70;0,230" dur="3.4s" begin="0.8s" repeatCount="indefinite"/></text>
+<text class="m" x="330" y="0">1<tspan x="330" dy="14">1</tspan><tspan x="330" dy="14">0</tspan><tspan x="330" dy="14">0</tspan><tspan x="330" dy="14">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-70;0,230" dur="2.2s" begin="1.4s" repeatCount="indefinite"/></text>
+<text class="m" x="560" y="0">0<tspan x="560" dy="14">0</tspan><tspan x="560" dy="14">1</tspan><tspan x="560" dy="14">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-70;0,230" dur="3s" begin="0.4s" repeatCount="indefinite"/></text>
+<text class="m" x="630" y="0">1<tspan x="630" dy="14">0</tspan><tspan x="630" dy="14">0</tspan><tspan x="630" dy="14">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-70;0,230" dur="2.8s" begin="1.9s" repeatCount="indefinite"/></text>
+</g>
+<g class="all">
+<g transform="translate(138,98)"><g class="f" style="animation-delay:0s"><text class="r">M</text><text class="c">M</text><text class="w">M</text></g></g>
+<g transform="translate(172,98)"><g class="f" style="animation-delay:.1s"><text class="r">A</text><text class="c">A</text><text class="w">A</text></g></g>
+<g transform="translate(206,98)"><g class="f" style="animation-delay:.2s"><text class="r">D</text><text class="c">D</text><text class="w">D</text></g></g>
+<g transform="translate(239,98)"><g class="f" style="animation-delay:.3s"><text class="r">A</text><text class="c">A</text><text class="w">A</text></g></g>
+<g transform="translate(273,98)"><g class="f" style="animation-delay:.4s"><text class="r">N</text><text class="c">N</text><text class="w">N</text></g></g>
+<g transform="translate(340,98)"><g class="f" style="animation-delay:.5s"><text class="r">B</text><text class="c">B</text><text class="w">B</text></g></g>
+<g transform="translate(374,98)"><g class="f" style="animation-delay:.6s"><text class="r">E</text><text class="c">E</text><text class="w">E</text></g></g>
+<g transform="translate(407,98)"><g class="f" style="animation-delay:.7s"><text class="r">L</text><text class="c">L</text><text class="w">L</text></g></g>
+<g transform="translate(441,98)"><g class="f" style="animation-delay:.8s"><text class="r">B</text><text class="c">B</text><text class="w">B</text></g></g>
+<g transform="translate(474,98)"><g class="f" style="animation-delay:.9s"><text class="r">A</text><text class="c">A</text><text class="w">A</text></g></g>
+<g transform="translate(508,98)"><g class="f" style="animation-delay:1s"><text class="r">S</text><text class="c">S</text><text class="w">S</text></g></g>
+<g transform="translate(542,98)"><g class="f" style="animation-delay:1.1s"><text class="r">E</text><text class="c">E</text><text class="w">E</text></g></g>
+</g>
+<rect x="0" y="0" width="680" height="7" fill="#ffffff" opacity="0.07"><animate attributeName="y" values="-10;170" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="0" y="118" width="680" height="3" fill="#00e5ff" opacity="0"><animate attributeName="opacity" values="0;0;.5;0;0" keyTimes="0;.6;.65;.7;1" dur="3.5s" repeatCount="indefinite"/></rect>
+</svg>
