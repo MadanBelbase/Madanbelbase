@@ -36,7 +36,7 @@
 - Blog on [madanbelbase.com.np](https://madanbelbase.com.np/)
 
 ---
-- Protfoilo  on [profile.madanbelbase.com.np](https://profile.madanbelbase.com.np/)
+- Portfolio  on [profile.madanbelbase.com.np](https://profile.madanbelbase.com.np/)
 ---
 
 ## Get in Touch
