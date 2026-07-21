@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Currently working on real-time collaboration tools & ML pipelines
 - Learning advanced TypeScript, AWS, and Machine Learning
@@ -35,6 +35,8 @@
 
 - Blog on [madanbelbase.com.np](https://madanbelbase.com.np/)
 
+---
+- Protfoilo  on [profile.madanbelbase.com.np](https://profile.madanbelbase.com.np/)
 ---
 
 ## Get in Touch
