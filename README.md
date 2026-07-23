@@ -13,17 +13,14 @@
 ---
 
 ## About Me
-
 - Currently working on real-time collaboration tools & ML pipelines
 - Learning advanced TypeScript, AWS, and Machine Learning
 - Open to freelance work, collaborations, and open-source contributions
 - Based in Kathmandu, Nepal
 - Coffee-dependent developer
-
 ---
 
 ## Tech Stack
-
 **Frontend:** React, TypeScript, HTML/CSS, Tailwind  
 **Backend:** Node.js, Python, Express  
 **Database:** PostgreSQL, MongoDB  
@@ -34,19 +31,16 @@
 ## Latest Blog Posts
 
 - Blog on [madanbelbase.com.np](https://madanbelbase.com.np/)
-
 ---
 - Portfolio  on [profile.madanbelbase.com.np](https://profile.madanbelbase.com.np/)
 ---
 
 ## Get in Touch
-
 - **Email:** madanbelbase927@gmail.com
 - **LinkedIn:** linkedin.com/in/madan-belbase
 - **Portfolio:** profile.madanbelbase.com.np
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MadanBelbase&label=Profile%20Views&color=red&style=flat-square" alt="Profile Views"/>
 </div>
