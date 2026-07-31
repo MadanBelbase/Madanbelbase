@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+##  About Me
 - Currently working on real-time collaboration tools & ML pipelines
 - Learning advanced TypeScript, AWS, and Machine Learning
 - Open to freelance work, collaborations, and open-source contributions
