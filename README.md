@@ -23,13 +23,6 @@
 - Coffee-dependent developer
 ---
 
-## Tech Stack
-**Frontend:** React, TypeScript, HTML/CSS, Tailwind  
-**Backend:** Node.js, Python, Express  
-**Database:** PostgreSQL, MongoDB  
-**Cloud & Tools:** AWS, Git, Docker
-
----
 
 ## Latest Blog Posts
 
