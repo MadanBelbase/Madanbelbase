@@ -15,11 +15,3 @@
 
 ---
 
-
-## Latest Blog Posts
-
-- Blog on [madanbelbase.com.np](https://madanbelbase.com.np/)
----
-- Portfolio  on [profile.madanbelbase.com.np](https://profile.madanbelbase.com.np/)
----
-
