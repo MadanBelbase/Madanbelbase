@@ -23,13 +23,3 @@
 - Portfolio  on [profile.madanbelbase.com.np](https://profile.madanbelbase.com.np/)
 ---
 
-## Get in Touch
-- **Email:** madanbelbase927@gmail.com
-- **LinkedIn:** linkedin.com/in/madan-belbase
-- **Portfolio:** profile.madanbelbase.com.np
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadanBelbase&label=Profile%20Views&color=red&style=flat-square" alt="Profile Views"/>
-</div>
-
